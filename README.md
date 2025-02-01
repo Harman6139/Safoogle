@@ -19,5 +19,5 @@ npm run build
 
 ### License
 
-[GPL-3.0](LICENSE) Copyright (c) 2021 Enjeck Cleopatra
+[GPL-3.0](LICENSE) Copyright (c) 2025 Safa Khan
 
