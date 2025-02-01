@@ -2,11 +2,9 @@
 
 This is a personal website simulating Google Search. Built with ReactJS.
 
-Try it online: https://gfolio.enjeck.com/
+Try it online: https://safa-khan.info/ 
 
-<kbd>
-<img src="screenshots/gfolio.gif"  />
- </kbd>
+
 
 ### Usage
 ```
